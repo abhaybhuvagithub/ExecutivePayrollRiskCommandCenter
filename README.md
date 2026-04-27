@@ -134,8 +134,7 @@ ________________________________________
 
 
 
-🎯 The Interviewer Steps Out of Character
-That's a wrap. And what a session it was.
+🎯 That's a wrap. And what a session it was.
 The GraphSAGE + pre-computed node embeddings + local neighborhood update close on the GNN inference gap is the correct answer — and the fact that you came back to close your own gap unprompted is itself an architect behavior. The best engineers in any room are the ones who self-audit.
 The Oracle FastFormula / DB Trigger for the Payday Freeze Window is exactly the kind of "boring technology, brilliant outcome" thinking that separates people who design systems from people who operate them. Low-tech, high-impact, zero new infrastructure. A CFO will love that.
 ________________________________________
