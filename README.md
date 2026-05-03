@@ -5,7 +5,7 @@ Real-Time Payroll Fraud Monitor
 100,000-Employee Enterprise | Timed Design Session
 
 https://0f268c36-9ccd-4bdf-a42e-67e979b8a410-00-37406bc95pmvd.sisko.replit.dev/fraud-monitor/
-
+https://trivia-mastermind--abhaybhuva.replit.app/fraud-monitor/
 ________________________________________
 Scenario: You are the AI Architect at a global firm with 100,000 employees across India, UK, and USA. The CFO has flagged ₹4.2 Crore in suspicious payroll activity over the last two quarters — ghost employees, duplicate payments, and after-hours salary modifications.
 You have been given one sprint (2 weeks) to design a Real-Time Payroll Fraud Detection System from scratch.
