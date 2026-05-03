@@ -11,7 +11,7 @@ Scenario: You are the AI Architect at a global firm with 100,000 employees acros
 You have been given one sprint (2 weeks) to design a Real-Time Payroll Fraud Detection System from scratch.
 ________________________________________
 Your design must address all five dimensions:
-1. Data & Ingestion Layer How do you ingest payroll events in real-time across 3 regions and multiple source systems (Oracle HCM, SAP, legacy HRMS)?
+1. Data & Ingestion Layer How do you ingest payroll events in real-time across 3 regions and multiple source systems (Oracle HCM, PeopleSoft, legacy HRMS)?
 2. Feature Engineering & the ML Model What signals/features indicate fraud? What model architecture do you choose and why?
 3. Real-Time Decisioning How does the system make a sub-second "Flag / Allow / Hold" decision on a payroll transaction?
 4. Explainability & Compliance When the system flags a transaction, what does the investigator see? How do you satisfy audit requirements across 3 jurisdictions?
